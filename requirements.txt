@@ -1,0 +1,8 @@
+pandas==1.1.0
+numpy==1.18.5
+ta==0.5.25
+datetime
+matplotlib==3.3.1
+xgboost==1.2.0
+shap==0.36.0
+tensorflow==2.3.0
